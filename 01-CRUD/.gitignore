@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+connect_db.php
+<<<<<<< HEAD
+/uploads
+upload-img-api.phpupload-img-api.phpupload-img-api.php
+=======
+/uploads
+>>>>>>> origin/exhibition
